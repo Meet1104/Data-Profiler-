@@ -1,0 +1,11 @@
+CustomerID,Name,Age,City,PurchaseAmount,Churn
+1,Amit,25,Surat,1200,No
+2,Riya,30,Mumbai,1500,Yes
+3,Rahul,22,Delhi,800,No
+4,Sneha,28,Pune,2000,No
+5,Karan,35,Ahmedabad,2500,Yes
+6,Neha,27,Jaipur,1100,No
+7,Arjun,24,Surat,900,No
+8,Pooja,31,Delhi,1800,Yes
+9,Vikas,29,Mumbai,1600,No
+10,Anjali,26,Pune,1400,No
